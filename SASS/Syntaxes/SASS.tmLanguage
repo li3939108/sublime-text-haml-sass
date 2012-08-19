@@ -150,7 +150,7 @@
 		</dict>
 	</array>
 	<key>scopeName</key>
-	<string>source.sass</string>
+	<string>source.sass, source.scss</string>
 	<key>uuid</key>
 	<string>0AB51F6F-7780-4BF2-BEE3-5405ABA6A6B9</string>
 </dict>
